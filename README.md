@@ -1,0 +1,4 @@
+CraftBukkitNET
+==============
+
+CraftBukkit in C#
